@@ -11,12 +11,15 @@
 
   If you use our source codes or paper material, please cite our work: 
 
+```
 @inproceedings{DBLP:conf/acml/SeyediGAJM19,
   author       = {Seyed Amjad Seyedi and
                   S. Siamak Ghodsi and
                   Fardin Akhlaghian Tab and
                   Mahdi Jalili and
                   Parham Moradi},
+  editor       = {Wee Sun Lee and
+                  Taiji Suzuki},
   title        = {Self-Paced Multi-Label Learning with Diversity},
   booktitle    = {Proceedings of The 11th Asian Conference on Machine Learning, {ACML}
                   2019, 17-19 November 2019, Nagoya, Japan},
@@ -24,5 +27,9 @@
   volume       = {101},
   pages        = {790--805},
   publisher    = {{PMLR}},
-  year         = {2019}
+  year         = {2019},
+  url          = {http://proceedings.mlr.press/v101/seyedi19a.html},
+  timestamp    = {Thu, 06 May 2021 16:26:10 +0200},
+  biburl       = {https://dblp.org/rec/conf/acml/SeyediGAJM19.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
